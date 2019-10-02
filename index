@@ -1,7 +1,14 @@
 <!DOCTYPE html>
 <html>
 <body>
+<!DOCTYPE html>
+<html>
+<body>
 
+<p>This is<br>a paragraph<br>with line breaks</p>
+
+</body>
+</html>
 <h1>This is heading 1</h1>
 <h2>This is heading 2</h2>
 <h3>This is heading 3</h3>
